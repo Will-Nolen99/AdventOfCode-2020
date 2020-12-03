@@ -30,12 +30,3 @@ print(f"Value 1: {data[counter_1]}")
 print(f"Value 2: {data[counter_2]}")
 
 print(f"Product: {data[counter_1] *data[counter_2]}") 
-
-
-
-
-
-
-
-
-    
