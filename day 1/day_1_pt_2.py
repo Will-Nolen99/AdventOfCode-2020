@@ -21,14 +21,3 @@ for i in data:
                 print(k)
                 print(i * j * k)
 
-
-
-
-
-
-
-
-
-
-
-    
